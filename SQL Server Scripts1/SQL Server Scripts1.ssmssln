@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{3EF5C7A2-E653-4C79-B2EF-5D21651739C0}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = saits
+		SccLocalPath0 = ..
+		SccProvider0 = MSSCCI:Agent\u0020Git
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection0 = SQL\u0020Server\u0020Scripts1\\
+		SccProjectUniqueName1 = SQL\u0020Server\u0020Scripts1\\SQL\u0020Server\u0020Scripts1.ssmssqlproj
+		SccLocalPath1 = ..
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = SQL\u0020Server\u0020Scripts1\\SQL\u0020Server\u0020Scripts1\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF5C7A2-E653-4C79-B2EF-5D21651739C0}.Default|Default.ActiveCfg = Default
+		{6525D86F-BA1A-40FE-A72F-EFF3676632D7}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
