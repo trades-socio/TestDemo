@@ -10,7 +10,7 @@ GO
 
 CREATE TABLE [dbo].[Accounts](
 	[PK_AccountID] [int] IDENTITY(1,1) NOT NULL,
-	[FK_ParticipantID] [int] NOT NULL,
+	[FK_ParticipantID] [bit] NOT NULL,
 	[Balance] [decimal](18, 5) NULL,
 	[Equity] [decimal](18, 5) NULL,
 	[UsedMargin] [decimal](18, 5) NULL,
