@@ -14,7 +14,7 @@ CREATE TABLE [dbo].[Accounts](
 	[Balance] [decimal](18, 5) NULL,
 	[Equity] [decimal](18, 5) NULL,
 	[UsedMargin] [decimal](18, 5) NULL,
-	[IsLive] [bit] NULL,
+	[IsLive] [int] NULL,
 	[ExternalID] [int] NOT NULL,
 	[FK_ManagerID] [int] NOT NULL,
 	[FK_ParticipantAccountType] [int] NULL,
