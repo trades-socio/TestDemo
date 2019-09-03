@@ -37,7 +37,7 @@ CREATE TABLE [dbo].[Accounts](
 	[RebateType] [int] NULL,
 	[RebateValue] [decimal](18, 2) NULL,
 	[Introducer] [int] NULL,
-	[FK_BrokerShareType] [int] NULL,
+	
  CONSTRAINT [PK_Accounts] PRIMARY KEY CLUSTERED 
 (
 	[PK_AccountID] ASC
